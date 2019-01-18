@@ -1,0 +1,14 @@
+
+
+camelCase
+
+TitleCase
+PascalCase
+
+
+kebob-case // file and folder names 
+fruit-meat-veggie
+
+snake_case // sequel + python
+
+README // magic numbers 
