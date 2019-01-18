@@ -10,7 +10,7 @@ body {
 label {
     display: block;
     padding: 5px;
-    border: 1px solid red;
+    border: 1px;
 }
 
 button {
